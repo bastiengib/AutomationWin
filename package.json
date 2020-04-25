@@ -1,0 +1,15 @@
+{
+  "name": "automationwin",
+  "version": "1.0.0",
+  "description": "windows plugin of autmationPi, working on web soccket, to launch app on windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bastien Gibrat",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.5",
+    "socket.io-client": "^2.3.0"
+  }
+}
